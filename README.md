@@ -21,5 +21,6 @@ my java progarm practice
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/premkumar-21851/java-practice/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/premkumar-21851/java-practice/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
