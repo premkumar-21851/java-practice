@@ -48,12 +48,14 @@ my java progarm practice
 | [3516-find-closest-person](https://github.com/premkumar-21851/java-practice/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/premkumar-21851/java-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3894-traffic-signal-color](https://github.com/premkumar-21851/java-practice/tree/master/3894-traffic-signal-color) |
+| [3959-check-good-integer](https://github.com/premkumar-21851/java-practice/tree/master/3959-check-good-integer) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/premkumar-21851/java-practice/tree/master/1929-concatenation-of-array) |
 | [3701-compute-alternating-sum](https://github.com/premkumar-21851/java-practice/tree/master/3701-compute-alternating-sum) |
 | [3894-traffic-signal-color](https://github.com/premkumar-21851/java-practice/tree/master/3894-traffic-signal-color) |
+| [3959-check-good-integer](https://github.com/premkumar-21851/java-practice/tree/master/3959-check-good-integer) |
 ## Hash Table
 |  |
 | ------- |
