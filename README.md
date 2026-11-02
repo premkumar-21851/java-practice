@@ -47,11 +47,13 @@ my java progarm practice
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/premkumar-21851/java-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3516-find-closest-person](https://github.com/premkumar-21851/java-practice/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/premkumar-21851/java-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3894-traffic-signal-color](https://github.com/premkumar-21851/java-practice/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/premkumar-21851/java-practice/tree/master/1929-concatenation-of-array) |
 | [3701-compute-alternating-sum](https://github.com/premkumar-21851/java-practice/tree/master/3701-compute-alternating-sum) |
+| [3894-traffic-signal-color](https://github.com/premkumar-21851/java-practice/tree/master/3894-traffic-signal-color) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,4 +94,5 @@ my java progarm practice
 |  |
 | ------- |
 | [3280-convert-date-to-binary](https://github.com/premkumar-21851/java-practice/tree/master/3280-convert-date-to-binary) |
+| [3894-traffic-signal-color](https://github.com/premkumar-21851/java-practice/tree/master/3894-traffic-signal-color) |
 <!---LeetCode Topics End-->
