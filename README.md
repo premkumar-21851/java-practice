@@ -35,6 +35,7 @@ my java progarm practice
 | [0204-count-primes](https://github.com/premkumar-21851/java-practice/tree/master/0204-count-primes) |
 | [1512-number-of-good-pairs](https://github.com/premkumar-21851/java-practice/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/premkumar-21851/java-practice/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/premkumar-21851/java-practice/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/premkumar-21851/java-practice/tree/master/2469-convert-the-temperature) |
 | [3280-convert-date-to-binary](https://github.com/premkumar-21851/java-practice/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/premkumar-21851/java-practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -66,6 +67,7 @@ my java progarm practice
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/premkumar-21851/java-practice/tree/master/0204-count-primes) |
+| [2413-smallest-even-multiple](https://github.com/premkumar-21851/java-practice/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/premkumar-21851/java-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Primality Test
 |  |
