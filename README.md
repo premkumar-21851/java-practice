@@ -10,6 +10,7 @@ my java progarm practice
 | [0035-search-insert-position](https://github.com/premkumar-21851/java-practice/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/premkumar-21851/java-practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/premkumar-21851/java-practice/tree/master/0204-count-primes) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/premkumar-21851/java-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/premkumar-21851/java-practice/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/premkumar-21851/java-practice/tree/master/1929-concatenation-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/premkumar-21851/java-practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -60,6 +61,7 @@ my java progarm practice
 ## Hash Table
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/premkumar-21851/java-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/premkumar-21851/java-practice/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/premkumar-21851/java-practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/premkumar-21851/java-practice/tree/master/3731-find-missing-elements) |
@@ -70,6 +72,7 @@ my java progarm practice
 ## Sorting
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/premkumar-21851/java-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/premkumar-21851/java-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/premkumar-21851/java-practice/tree/master/3731-find-missing-elements) |
 ## Enumeration
@@ -100,4 +103,8 @@ my java progarm practice
 | ------- |
 | [3280-convert-date-to-binary](https://github.com/premkumar-21851/java-practice/tree/master/3280-convert-date-to-binary) |
 | [3894-traffic-signal-color](https://github.com/premkumar-21851/java-practice/tree/master/3894-traffic-signal-color) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/premkumar-21851/java-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
