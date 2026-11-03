@@ -14,6 +14,7 @@ my java progarm practice
 | [1512-number-of-good-pairs](https://github.com/premkumar-21851/java-practice/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/premkumar-21851/java-practice/tree/master/1929-concatenation-of-array) |
 | [2418-sort-the-people](https://github.com/premkumar-21851/java-practice/tree/master/2418-sort-the-people) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/premkumar-21851/java-practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/premkumar-21851/java-practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/premkumar-21851/java-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/premkumar-21851/java-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -27,6 +28,7 @@ my java progarm practice
 | ------- |
 | [0027-remove-element](https://github.com/premkumar-21851/java-practice/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/premkumar-21851/java-practice/tree/master/0189-rotate-array) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/premkumar-21851/java-practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/premkumar-21851/java-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/premkumar-21851/java-practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
@@ -67,6 +69,7 @@ my java progarm practice
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/premkumar-21851/java-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/premkumar-21851/java-practice/tree/master/1512-number-of-good-pairs) |
 | [2418-sort-the-people](https://github.com/premkumar-21851/java-practice/tree/master/2418-sort-the-people) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/premkumar-21851/java-practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/premkumar-21851/java-practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/premkumar-21851/java-practice/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -78,6 +81,7 @@ my java progarm practice
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/premkumar-21851/java-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/premkumar-21851/java-practice/tree/master/2418-sort-the-people) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/premkumar-21851/java-practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/premkumar-21851/java-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/premkumar-21851/java-practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3731-find-missing-elements](https://github.com/premkumar-21851/java-practice/tree/master/3731-find-missing-elements) |
