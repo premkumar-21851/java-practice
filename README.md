@@ -11,6 +11,7 @@ my java progarm practice
 | [0189-rotate-array](https://github.com/premkumar-21851/java-practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/premkumar-21851/java-practice/tree/master/0204-count-primes) |
 | [0832-flipping-an-image](https://github.com/premkumar-21851/java-practice/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/premkumar-21851/java-practice/tree/master/0867-transpose-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/premkumar-21851/java-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/premkumar-21851/java-practice/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/premkumar-21851/java-practice/tree/master/1929-concatenation-of-array) |
@@ -62,6 +63,7 @@ my java progarm practice
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/premkumar-21851/java-practice/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/premkumar-21851/java-practice/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/premkumar-21851/java-practice/tree/master/1929-concatenation-of-array) |
 | [3701-compute-alternating-sum](https://github.com/premkumar-21851/java-practice/tree/master/3701-compute-alternating-sum) |
 | [3894-traffic-signal-color](https://github.com/premkumar-21851/java-practice/tree/master/3894-traffic-signal-color) |
@@ -129,4 +131,5 @@ my java progarm practice
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/premkumar-21851/java-practice/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/premkumar-21851/java-practice/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
