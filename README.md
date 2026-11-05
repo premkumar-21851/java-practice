@@ -28,6 +28,7 @@ my java progarm practice
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/premkumar-21851/java-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3701-compute-alternating-sum](https://github.com/premkumar-21851/java-practice/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/premkumar-21851/java-practice/tree/master/3731-find-missing-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/premkumar-21851/java-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@ my java progarm practice
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/premkumar-21851/java-practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/premkumar-21851/java-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/premkumar-21851/java-practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/premkumar-21851/java-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +67,7 @@ my java progarm practice
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/premkumar-21851/java-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3516-find-closest-person](https://github.com/premkumar-21851/java-practice/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/premkumar-21851/java-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/premkumar-21851/java-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/premkumar-21851/java-practice/tree/master/3894-traffic-signal-color) |
 | [3959-check-good-integer](https://github.com/premkumar-21851/java-practice/tree/master/3959-check-good-integer) |
 ## Simulation
@@ -75,6 +78,7 @@ my java progarm practice
 | [1929-concatenation-of-array](https://github.com/premkumar-21851/java-practice/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/premkumar-21851/java-practice/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3701-compute-alternating-sum](https://github.com/premkumar-21851/java-practice/tree/master/3701-compute-alternating-sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/premkumar-21851/java-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/premkumar-21851/java-practice/tree/master/3894-traffic-signal-color) |
 | [3959-check-good-integer](https://github.com/premkumar-21851/java-practice/tree/master/3959-check-good-integer) |
 ## Hash Table
@@ -100,6 +104,7 @@ my java progarm practice
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/premkumar-21851/java-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/premkumar-21851/java-practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3731-find-missing-elements](https://github.com/premkumar-21851/java-practice/tree/master/3731-find-missing-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/premkumar-21851/java-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -112,6 +117,7 @@ my java progarm practice
 | [0204-count-primes](https://github.com/premkumar-21851/java-practice/tree/master/0204-count-primes) |
 | [2413-smallest-even-multiple](https://github.com/premkumar-21851/java-practice/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/premkumar-21851/java-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/premkumar-21851/java-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Primality Test
 |  |
 | ------- |
