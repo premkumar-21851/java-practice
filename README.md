@@ -35,6 +35,7 @@ my java progarm practice
 | ------- |
 | [0027-remove-element](https://github.com/premkumar-21851/java-practice/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/premkumar-21851/java-practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/premkumar-21851/java-practice/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/premkumar-21851/java-practice/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/premkumar-21851/java-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/premkumar-21851/java-practice/tree/master/0832-flipping-an-image) |
@@ -59,6 +60,7 @@ my java progarm practice
 | [0066-plus-one](https://github.com/premkumar-21851/java-practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/premkumar-21851/java-practice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/premkumar-21851/java-practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/premkumar-21851/java-practice/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/premkumar-21851/java-practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/premkumar-21851/java-practice/tree/master/0231-power-of-two) |
 | [1512-number-of-good-pairs](https://github.com/premkumar-21851/java-practice/tree/master/1512-number-of-good-pairs) |
@@ -90,6 +92,7 @@ my java progarm practice
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/premkumar-21851/java-practice/tree/master/0202-happy-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/premkumar-21851/java-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/premkumar-21851/java-practice/tree/master/1512-number-of-good-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/premkumar-21851/java-practice/tree/master/2367-number-of-arithmetic-triplets) |
@@ -173,4 +176,8 @@ my java progarm practice
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/premkumar-21851/java-practice/tree/master/0231-power-of-two) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/premkumar-21851/java-practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
