@@ -48,6 +48,7 @@ my java progarm practice
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/premkumar-21851/java-practice/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/premkumar-21851/java-practice/tree/master/0069-sqrtx) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/premkumar-21851/java-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/premkumar-21851/java-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
@@ -56,6 +57,7 @@ my java progarm practice
 | [0007-reverse-integer](https://github.com/premkumar-21851/java-practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/premkumar-21851/java-practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/premkumar-21851/java-practice/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/premkumar-21851/java-practice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/premkumar-21851/java-practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/premkumar-21851/java-practice/tree/master/0204-count-primes) |
 | [1512-number-of-good-pairs](https://github.com/premkumar-21851/java-practice/tree/master/1512-number-of-good-pairs) |
@@ -161,4 +163,8 @@ my java progarm practice
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/premkumar-21851/java-practice/tree/master/2000-reverse-prefix-of-word) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/premkumar-21851/java-practice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
