@@ -60,6 +60,7 @@ my java progarm practice
 | [0069-sqrtx](https://github.com/premkumar-21851/java-practice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/premkumar-21851/java-practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/premkumar-21851/java-practice/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/premkumar-21851/java-practice/tree/master/0231-power-of-two) |
 | [1512-number-of-good-pairs](https://github.com/premkumar-21851/java-practice/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/premkumar-21851/java-practice/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/premkumar-21851/java-practice/tree/master/2413-smallest-even-multiple) |
@@ -151,6 +152,7 @@ my java progarm practice
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/premkumar-21851/java-practice/tree/master/0231-power-of-two) |
 | [0832-flipping-an-image](https://github.com/premkumar-21851/java-practice/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
@@ -167,4 +169,8 @@ my java progarm practice
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/premkumar-21851/java-practice/tree/master/0069-sqrtx) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/premkumar-21851/java-practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
