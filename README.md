@@ -53,6 +53,7 @@ my java progarm practice
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/premkumar-21851/java-practice/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/premkumar-21851/java-practice/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/premkumar-21851/java-practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/premkumar-21851/java-practice/tree/master/0204-count-primes) |
 | [1512-number-of-good-pairs](https://github.com/premkumar-21851/java-practice/tree/master/1512-number-of-good-pairs) |
