@@ -21,6 +21,7 @@ my java progarm practice
 | [2367-number-of-arithmetic-triplets](https://github.com/premkumar-21851/java-practice/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/premkumar-21851/java-practice/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/premkumar-21851/java-practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/premkumar-21851/java-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/premkumar-21851/java-practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/premkumar-21851/java-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/premkumar-21851/java-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -51,6 +52,7 @@ my java progarm practice
 | [0035-search-insert-position](https://github.com/premkumar-21851/java-practice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/premkumar-21851/java-practice/tree/master/0069-sqrtx) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/premkumar-21851/java-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/premkumar-21851/java-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/premkumar-21851/java-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
@@ -105,6 +107,7 @@ my java progarm practice
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/premkumar-21851/java-practice/tree/master/1512-number-of-good-pairs) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/premkumar-21851/java-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
