@@ -9,6 +9,7 @@ my java progarm practice
 | [0027-remove-element](https://github.com/premkumar-21851/java-practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/premkumar-21851/java-practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/premkumar-21851/java-practice/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/premkumar-21851/java-practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/premkumar-21851/java-practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/premkumar-21851/java-practice/tree/master/0204-count-primes) |
 | [0349-intersection-of-two-arrays](https://github.com/premkumar-21851/java-practice/tree/master/0349-intersection-of-two-arrays) |
@@ -42,6 +43,7 @@ my java progarm practice
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/premkumar-21851/java-practice/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/premkumar-21851/java-practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/premkumar-21851/java-practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/premkumar-21851/java-practice/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/premkumar-21851/java-practice/tree/master/0344-reverse-string) |
@@ -127,6 +129,7 @@ my java progarm practice
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/premkumar-21851/java-practice/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/premkumar-21851/java-practice/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/premkumar-21851/java-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/premkumar-21851/java-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
