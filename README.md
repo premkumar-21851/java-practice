@@ -19,6 +19,7 @@ my java progarm practice
 | [0414-third-maximum-number](https://github.com/premkumar-21851/java-practice/tree/master/0414-third-maximum-number) |
 | [0832-flipping-an-image](https://github.com/premkumar-21851/java-practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/premkumar-21851/java-practice/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/premkumar-21851/java-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1184-distance-between-bus-stops](https://github.com/premkumar-21851/java-practice/tree/master/1184-distance-between-bus-stops) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/premkumar-21851/java-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/premkumar-21851/java-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -56,6 +57,7 @@ my java progarm practice
 | [0349-intersection-of-two-arrays](https://github.com/premkumar-21851/java-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/premkumar-21851/java-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/premkumar-21851/java-practice/tree/master/0832-flipping-an-image) |
+| [0977-squares-of-a-sorted-array](https://github.com/premkumar-21851/java-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/premkumar-21851/java-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/premkumar-21851/java-practice/tree/master/2000-reverse-prefix-of-word) |
 | [2367-number-of-arithmetic-triplets](https://github.com/premkumar-21851/java-practice/tree/master/2367-number-of-arithmetic-triplets) |
@@ -142,6 +144,7 @@ my java progarm practice
 | [0268-missing-number](https://github.com/premkumar-21851/java-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/premkumar-21851/java-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/premkumar-21851/java-practice/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/premkumar-21851/java-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/premkumar-21851/java-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/premkumar-21851/java-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2418-sort-the-people](https://github.com/premkumar-21851/java-practice/tree/master/2418-sort-the-people) |
