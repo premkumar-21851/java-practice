@@ -10,6 +10,7 @@ my java progarm practice
 | [0035-search-insert-position](https://github.com/premkumar-21851/java-practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/premkumar-21851/java-practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/premkumar-21851/java-practice/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/premkumar-21851/java-practice/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/premkumar-21851/java-practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/premkumar-21851/java-practice/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/premkumar-21851/java-practice/tree/master/0268-missing-number) |
@@ -187,6 +188,7 @@ my java progarm practice
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/premkumar-21851/java-practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/premkumar-21851/java-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/premkumar-21851/java-practice/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/premkumar-21851/java-practice/tree/master/0832-flipping-an-image) |
