@@ -20,6 +20,7 @@ my java progarm practice
 | [0832-flipping-an-image](https://github.com/premkumar-21851/java-practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/premkumar-21851/java-practice/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/premkumar-21851/java-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/premkumar-21851/java-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1184-distance-between-bus-stops](https://github.com/premkumar-21851/java-practice/tree/master/1184-distance-between-bus-stops) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/premkumar-21851/java-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/premkumar-21851/java-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -90,6 +91,7 @@ my java progarm practice
 | [0204-count-primes](https://github.com/premkumar-21851/java-practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/premkumar-21851/java-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/premkumar-21851/java-practice/tree/master/0268-missing-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/premkumar-21851/java-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1512-number-of-good-pairs](https://github.com/premkumar-21851/java-practice/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/premkumar-21851/java-practice/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/premkumar-21851/java-practice/tree/master/2413-smallest-even-multiple) |
