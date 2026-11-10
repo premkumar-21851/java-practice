@@ -18,6 +18,7 @@ my java progarm practice
 | [0349-intersection-of-two-arrays](https://github.com/premkumar-21851/java-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/premkumar-21851/java-practice/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/premkumar-21851/java-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/premkumar-21851/java-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0832-flipping-an-image](https://github.com/premkumar-21851/java-practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/premkumar-21851/java-practice/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/premkumar-21851/java-practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -92,6 +93,7 @@ my java progarm practice
 | [0204-count-primes](https://github.com/premkumar-21851/java-practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/premkumar-21851/java-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/premkumar-21851/java-practice/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/premkumar-21851/java-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/premkumar-21851/java-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1512-number-of-good-pairs](https://github.com/premkumar-21851/java-practice/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/premkumar-21851/java-practice/tree/master/2235-add-two-integers) |
@@ -148,6 +150,7 @@ my java progarm practice
 | [0268-missing-number](https://github.com/premkumar-21851/java-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/premkumar-21851/java-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/premkumar-21851/java-practice/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/premkumar-21851/java-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/premkumar-21851/java-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/premkumar-21851/java-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/premkumar-21851/java-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
