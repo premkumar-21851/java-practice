@@ -19,6 +19,7 @@ my java progarm practice
 | [0414-third-maximum-number](https://github.com/premkumar-21851/java-practice/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/premkumar-21851/java-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/premkumar-21851/java-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/premkumar-21851/java-practice/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0832-flipping-an-image](https://github.com/premkumar-21851/java-practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/premkumar-21851/java-practice/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/premkumar-21851/java-practice/tree/master/0977-squares-of-a-sorted-array) |
