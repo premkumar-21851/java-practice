@@ -189,6 +189,7 @@ my java progarm practice
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/premkumar-21851/java-practice/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/premkumar-21851/java-practice/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/premkumar-21851/java-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2000-reverse-prefix-of-word](https://github.com/premkumar-21851/java-practice/tree/master/2000-reverse-prefix-of-word) |
