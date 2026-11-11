@@ -76,6 +76,7 @@ my java progarm practice
 | [0035-search-insert-position](https://github.com/premkumar-21851/java-practice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/premkumar-21851/java-practice/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/premkumar-21851/java-practice/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/premkumar-21851/java-practice/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/premkumar-21851/java-practice/tree/master/0349-intersection-of-two-arrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/premkumar-21851/java-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/premkumar-21851/java-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -237,4 +238,8 @@ my java progarm practice
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/premkumar-21851/java-practice/tree/master/2574-left-and-right-sum-differences) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/premkumar-21851/java-practice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
