@@ -24,6 +24,7 @@ my java progarm practice
 | [0867-transpose-matrix](https://github.com/premkumar-21851/java-practice/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/premkumar-21851/java-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/premkumar-21851/java-practice/tree/master/0989-add-to-array-form-of-integer) |
+| [1037-valid-boomerang](https://github.com/premkumar-21851/java-practice/tree/master/1037-valid-boomerang) |
 | [1184-distance-between-bus-stops](https://github.com/premkumar-21851/java-practice/tree/master/1184-distance-between-bus-stops) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/premkumar-21851/java-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/premkumar-21851/java-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -100,6 +101,7 @@ my java progarm practice
 | [0342-power-of-four](https://github.com/premkumar-21851/java-practice/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/premkumar-21851/java-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/premkumar-21851/java-practice/tree/master/0989-add-to-array-form-of-integer) |
+| [1037-valid-boomerang](https://github.com/premkumar-21851/java-practice/tree/master/1037-valid-boomerang) |
 | [1512-number-of-good-pairs](https://github.com/premkumar-21851/java-practice/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/premkumar-21851/java-practice/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/premkumar-21851/java-practice/tree/master/2413-smallest-even-multiple) |
@@ -247,4 +249,8 @@ my java progarm practice
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/premkumar-21851/java-practice/tree/master/0278-first-bad-version) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/premkumar-21851/java-practice/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
