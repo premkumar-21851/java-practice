@@ -82,6 +82,7 @@ my java progarm practice
 | [0268-missing-number](https://github.com/premkumar-21851/java-practice/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/premkumar-21851/java-practice/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/premkumar-21851/java-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/premkumar-21851/java-practice/tree/master/0367-valid-perfect-square) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/premkumar-21851/java-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/premkumar-21851/java-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/premkumar-21851/java-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -102,6 +103,7 @@ my java progarm practice
 | [0268-missing-number](https://github.com/premkumar-21851/java-practice/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/premkumar-21851/java-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/premkumar-21851/java-practice/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/premkumar-21851/java-practice/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/premkumar-21851/java-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/premkumar-21851/java-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1037-valid-boomerang](https://github.com/premkumar-21851/java-practice/tree/master/1037-valid-boomerang) |
