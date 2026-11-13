@@ -109,6 +109,7 @@ my java progarm practice
 | [1037-valid-boomerang](https://github.com/premkumar-21851/java-practice/tree/master/1037-valid-boomerang) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/premkumar-21851/java-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/premkumar-21851/java-practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/premkumar-21851/java-practice/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/premkumar-21851/java-practice/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/premkumar-21851/java-practice/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/premkumar-21851/java-practice/tree/master/2413-smallest-even-multiple) |
@@ -225,6 +226,7 @@ my java progarm practice
 | [0268-missing-number](https://github.com/premkumar-21851/java-practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/premkumar-21851/java-practice/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/premkumar-21851/java-practice/tree/master/0832-flipping-an-image) |
+| [1486-xor-operation-in-an-array](https://github.com/premkumar-21851/java-practice/tree/master/1486-xor-operation-in-an-array) |
 ## Matrix
 |  |
 | ------- |
