@@ -245,6 +245,7 @@ my java progarm practice
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/premkumar-21851/java-practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/premkumar-21851/java-practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/premkumar-21851/java-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/premkumar-21851/java-practice/tree/master/0342-power-of-four) |
@@ -268,4 +269,8 @@ my java progarm practice
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/premkumar-21851/java-practice/tree/master/1051-height-checker) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/premkumar-21851/java-practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
