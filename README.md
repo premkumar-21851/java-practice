@@ -275,5 +275,6 @@ my java progarm practice
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/premkumar-21851/java-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/premkumar-21851/java-practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
