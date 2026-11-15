@@ -33,6 +33,7 @@ my java progarm practice
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/premkumar-21851/java-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/premkumar-21851/java-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/premkumar-21851/java-practice/tree/master/1512-number-of-good-pairs) |
+| [1572-matrix-diagonal-sum](https://github.com/premkumar-21851/java-practice/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/premkumar-21851/java-practice/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/premkumar-21851/java-practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/premkumar-21851/java-practice/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -238,6 +239,7 @@ my java progarm practice
 | [0832-flipping-an-image](https://github.com/premkumar-21851/java-practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/premkumar-21851/java-practice/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/premkumar-21851/java-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/premkumar-21851/java-practice/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/premkumar-21851/java-practice/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Stack
 |  |
