@@ -45,6 +45,7 @@ my java progarm practice
 | [2540-minimum-common-value](https://github.com/premkumar-21851/java-practice/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/premkumar-21851/java-practice/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/premkumar-21851/java-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2614-prime-in-diagonal](https://github.com/premkumar-21851/java-practice/tree/master/2614-prime-in-diagonal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/premkumar-21851/java-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/premkumar-21851/java-practice/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/premkumar-21851/java-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -120,6 +121,7 @@ my java progarm practice
 | [2469-convert-the-temperature](https://github.com/premkumar-21851/java-practice/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/premkumar-21851/java-practice/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/premkumar-21851/java-practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2614-prime-in-diagonal](https://github.com/premkumar-21851/java-practice/tree/master/2614-prime-in-diagonal) |
 | [2652-sum-multiples](https://github.com/premkumar-21851/java-practice/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/premkumar-21851/java-practice/tree/master/3099-harshad-number) |
 | [3280-convert-date-to-binary](https://github.com/premkumar-21851/java-practice/tree/master/3280-convert-date-to-binary) |
@@ -193,6 +195,7 @@ my java progarm practice
 | ------- |
 | [0204-count-primes](https://github.com/premkumar-21851/java-practice/tree/master/0204-count-primes) |
 | [2413-smallest-even-multiple](https://github.com/premkumar-21851/java-practice/tree/master/2413-smallest-even-multiple) |
+| [2614-prime-in-diagonal](https://github.com/premkumar-21851/java-practice/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/premkumar-21851/java-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/premkumar-21851/java-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Primality Test
@@ -241,6 +244,7 @@ my java progarm practice
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/premkumar-21851/java-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/premkumar-21851/java-practice/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/premkumar-21851/java-practice/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2614-prime-in-diagonal](https://github.com/premkumar-21851/java-practice/tree/master/2614-prime-in-diagonal) |
 ## Stack
 |  |
 | ------- |
