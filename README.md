@@ -103,6 +103,7 @@ my java progarm practice
 | [0189-rotate-array](https://github.com/premkumar-21851/java-practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/premkumar-21851/java-practice/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/premkumar-21851/java-practice/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/premkumar-21851/java-practice/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/premkumar-21851/java-practice/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/premkumar-21851/java-practice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/premkumar-21851/java-practice/tree/master/0268-missing-number) |
@@ -279,6 +280,7 @@ my java progarm practice
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/premkumar-21851/java-practice/tree/master/0223-rectangle-area) |
 | [1037-valid-boomerang](https://github.com/premkumar-21851/java-practice/tree/master/1037-valid-boomerang) |
 ## Bubble Sort
 |  |
