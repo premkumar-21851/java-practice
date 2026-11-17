@@ -8,6 +8,7 @@ my java progarm practice
 | ------- |
 | [0027-remove-element](https://github.com/premkumar-21851/java-practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/premkumar-21851/java-practice/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/premkumar-21851/java-practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/premkumar-21851/java-practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/premkumar-21851/java-practice/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/premkumar-21851/java-practice/tree/master/0136-single-number) |
@@ -100,6 +101,7 @@ my java progarm practice
 | ------- |
 | [0007-reverse-integer](https://github.com/premkumar-21851/java-practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/premkumar-21851/java-practice/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/premkumar-21851/java-practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/premkumar-21851/java-practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/premkumar-21851/java-practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/premkumar-21851/java-practice/tree/master/0069-sqrtx) |
@@ -254,6 +256,7 @@ my java progarm practice
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/premkumar-21851/java-practice/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/premkumar-21851/java-practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/premkumar-21851/java-practice/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/premkumar-21851/java-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
