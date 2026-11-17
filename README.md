@@ -58,6 +58,7 @@ my java progarm practice
 | [3701-compute-alternating-sum](https://github.com/premkumar-21851/java-practice/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/premkumar-21851/java-practice/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/premkumar-21851/java-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3895-count-digit-appearances](https://github.com/premkumar-21851/java-practice/tree/master/3895-count-digit-appearances) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,6 +139,7 @@ my java progarm practice
 | [3658-gcd-of-odd-and-even-sums](https://github.com/premkumar-21851/java-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/premkumar-21851/java-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/premkumar-21851/java-practice/tree/master/3894-traffic-signal-color) |
+| [3895-count-digit-appearances](https://github.com/premkumar-21851/java-practice/tree/master/3895-count-digit-appearances) |
 | [3959-check-good-integer](https://github.com/premkumar-21851/java-practice/tree/master/3959-check-good-integer) |
 ## Simulation
 |  |
