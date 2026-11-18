@@ -141,6 +141,7 @@ my java progarm practice
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/premkumar-21851/java-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3516-find-closest-person](https://github.com/premkumar-21851/java-practice/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/premkumar-21851/java-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3783-mirror-distance-of-an-integer](https://github.com/premkumar-21851/java-practice/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/premkumar-21851/java-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/premkumar-21851/java-practice/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/premkumar-21851/java-practice/tree/master/3895-count-digit-appearances) |
