@@ -145,6 +145,7 @@ my java progarm practice
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/premkumar-21851/java-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/premkumar-21851/java-practice/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/premkumar-21851/java-practice/tree/master/3895-count-digit-appearances) |
+| [3945-digit-frequency-score](https://github.com/premkumar-21851/java-practice/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/premkumar-21851/java-practice/tree/master/3959-check-good-integer) |
 ## Simulation
 |  |
@@ -174,6 +175,7 @@ my java progarm practice
 | [2540-minimum-common-value](https://github.com/premkumar-21851/java-practice/tree/master/2540-minimum-common-value) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/premkumar-21851/java-practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/premkumar-21851/java-practice/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/premkumar-21851/java-practice/tree/master/3945-digit-frequency-score) |
 ## Counting
 |  |
 | ------- |
