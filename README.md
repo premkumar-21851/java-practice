@@ -127,6 +127,7 @@ my java progarm practice
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/premkumar-21851/java-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/premkumar-21851/java-practice/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/premkumar-21851/java-practice/tree/master/1512-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/premkumar-21851/java-practice/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/premkumar-21851/java-practice/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/premkumar-21851/java-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/premkumar-21851/java-practice/tree/master/2119-a-number-after-a-double-reversal) |
@@ -157,6 +158,7 @@ my java progarm practice
 | ------- |
 | [0832-flipping-an-image](https://github.com/premkumar-21851/java-practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/premkumar-21851/java-practice/tree/master/0867-transpose-matrix) |
+| [1688-count-of-matches-in-tournament](https://github.com/premkumar-21851/java-practice/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/premkumar-21851/java-practice/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/premkumar-21851/java-practice/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3701-compute-alternating-sum](https://github.com/premkumar-21851/java-practice/tree/master/3701-compute-alternating-sum) |
