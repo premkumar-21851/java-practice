@@ -116,6 +116,7 @@ my java progarm practice
 | [0326-power-of-three](https://github.com/premkumar-21851/java-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/premkumar-21851/java-practice/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/premkumar-21851/java-practice/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/premkumar-21851/java-practice/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/premkumar-21851/java-practice/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/premkumar-21851/java-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/premkumar-21851/java-practice/tree/master/0728-self-dividing-numbers) |
@@ -158,6 +159,7 @@ my java progarm practice
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/premkumar-21851/java-practice/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/premkumar-21851/java-practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/premkumar-21851/java-practice/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/premkumar-21851/java-practice/tree/master/1688-count-of-matches-in-tournament) |
@@ -246,6 +248,7 @@ my java progarm practice
 | ------- |
 | [0058-length-of-last-word](https://github.com/premkumar-21851/java-practice/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/premkumar-21851/java-practice/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/premkumar-21851/java-practice/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/premkumar-21851/java-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2000-reverse-prefix-of-word](https://github.com/premkumar-21851/java-practice/tree/master/2000-reverse-prefix-of-word) |
 | [2418-sort-the-people](https://github.com/premkumar-21851/java-practice/tree/master/2418-sort-the-people) |
