@@ -141,6 +141,7 @@ my java progarm practice
 | [2520-count-the-digits-that-divide-a-number](https://github.com/premkumar-21851/java-practice/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/premkumar-21851/java-practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/premkumar-21851/java-practice/tree/master/2614-prime-in-diagonal) |
+| [2651-calculate-delayed-arrival-time](https://github.com/premkumar-21851/java-practice/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/premkumar-21851/java-practice/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/premkumar-21851/java-practice/tree/master/3099-harshad-number) |
 | [3280-convert-date-to-binary](https://github.com/premkumar-21851/java-practice/tree/master/3280-convert-date-to-binary) |
