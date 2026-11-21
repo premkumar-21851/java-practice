@@ -257,6 +257,7 @@ my java progarm practice
 | [0344-reverse-string](https://github.com/premkumar-21851/java-practice/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/premkumar-21851/java-practice/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/premkumar-21851/java-practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0709-to-lower-case](https://github.com/premkumar-21851/java-practice/tree/master/0709-to-lower-case) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/premkumar-21851/java-practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2000-reverse-prefix-of-word](https://github.com/premkumar-21851/java-practice/tree/master/2000-reverse-prefix-of-word) |
 | [2418-sort-the-people](https://github.com/premkumar-21851/java-practice/tree/master/2418-sort-the-people) |
