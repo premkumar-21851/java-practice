@@ -186,6 +186,7 @@ my java progarm practice
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/premkumar-21851/java-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/premkumar-21851/java-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/premkumar-21851/java-practice/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/premkumar-21851/java-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/premkumar-21851/java-practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/premkumar-21851/java-practice/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/premkumar-21851/java-practice/tree/master/2418-sort-the-people) |
@@ -259,6 +260,7 @@ my java progarm practice
 | [0557-reverse-words-in-a-string-iii](https://github.com/premkumar-21851/java-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/premkumar-21851/java-practice/tree/master/0709-to-lower-case) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/premkumar-21851/java-practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/premkumar-21851/java-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/premkumar-21851/java-practice/tree/master/2000-reverse-prefix-of-word) |
 | [2418-sort-the-people](https://github.com/premkumar-21851/java-practice/tree/master/2418-sort-the-people) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/premkumar-21851/java-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
