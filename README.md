@@ -262,6 +262,7 @@ my java progarm practice
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/premkumar-21851/java-practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/premkumar-21851/java-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/premkumar-21851/java-practice/tree/master/2000-reverse-prefix-of-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/premkumar-21851/java-practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2418-sort-the-people](https://github.com/premkumar-21851/java-practice/tree/master/2418-sort-the-people) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/premkumar-21851/java-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/premkumar-21851/java-practice/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
