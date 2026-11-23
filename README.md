@@ -36,6 +36,7 @@ my java progarm practice
 | [1512-number-of-good-pairs](https://github.com/premkumar-21851/java-practice/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/premkumar-21851/java-practice/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/premkumar-21851/java-practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1816-truncate-sentence](https://github.com/premkumar-21851/java-practice/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/premkumar-21851/java-practice/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/premkumar-21851/java-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/premkumar-21851/java-practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -262,6 +263,7 @@ my java progarm practice
 | [0557-reverse-words-in-a-string-iii](https://github.com/premkumar-21851/java-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/premkumar-21851/java-practice/tree/master/0709-to-lower-case) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/premkumar-21851/java-practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1816-truncate-sentence](https://github.com/premkumar-21851/java-practice/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/premkumar-21851/java-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/premkumar-21851/java-practice/tree/master/2000-reverse-prefix-of-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/premkumar-21851/java-practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
