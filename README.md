@@ -36,6 +36,7 @@ my java progarm practice
 | [1512-number-of-good-pairs](https://github.com/premkumar-21851/java-practice/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/premkumar-21851/java-practice/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/premkumar-21851/java-practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1773-count-items-matching-a-rule](https://github.com/premkumar-21851/java-practice/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/premkumar-21851/java-practice/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/premkumar-21851/java-practice/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/premkumar-21851/java-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -266,6 +267,7 @@ my java progarm practice
 | [0557-reverse-words-in-a-string-iii](https://github.com/premkumar-21851/java-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/premkumar-21851/java-practice/tree/master/0709-to-lower-case) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/premkumar-21851/java-practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1773-count-items-matching-a-rule](https://github.com/premkumar-21851/java-practice/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/premkumar-21851/java-practice/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/premkumar-21851/java-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/premkumar-21851/java-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
