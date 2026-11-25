@@ -64,6 +64,7 @@ my java progarm practice
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/premkumar-21851/java-practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/premkumar-21851/java-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/premkumar-21851/java-practice/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/premkumar-21851/java-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/premkumar-21851/java-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/premkumar-21851/java-practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/premkumar-21851/java-practice/tree/master/3701-compute-alternating-sum) |
@@ -156,6 +157,7 @@ my java progarm practice
 | [3280-convert-date-to-binary](https://github.com/premkumar-21851/java-practice/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/premkumar-21851/java-practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/premkumar-21851/java-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/premkumar-21851/java-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3516-find-closest-person](https://github.com/premkumar-21851/java-practice/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/premkumar-21851/java-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/premkumar-21851/java-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -241,6 +243,7 @@ my java progarm practice
 | [1925-count-square-sum-triples](https://github.com/premkumar-21851/java-practice/tree/master/1925-count-square-sum-triples) |
 | [2367-number-of-arithmetic-triplets](https://github.com/premkumar-21851/java-practice/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/premkumar-21851/java-practice/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/premkumar-21851/java-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
@@ -248,6 +251,7 @@ my java progarm practice
 | [1979-find-greatest-common-divisor-of-array](https://github.com/premkumar-21851/java-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/premkumar-21851/java-practice/tree/master/2413-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/premkumar-21851/java-practice/tree/master/2614-prime-in-diagonal) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/premkumar-21851/java-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/premkumar-21851/java-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/premkumar-21851/java-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/premkumar-21851/java-practice/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
@@ -359,6 +363,7 @@ my java progarm practice
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/premkumar-21851/java-practice/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/premkumar-21851/java-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Euclidean Algorithm
 |  |
 | ------- |
