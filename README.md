@@ -65,6 +65,7 @@ my java progarm practice
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/premkumar-21851/java-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/premkumar-21851/java-practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/premkumar-21851/java-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/premkumar-21851/java-practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/premkumar-21851/java-practice/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/premkumar-21851/java-practice/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/premkumar-21851/java-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -181,6 +182,7 @@ my java progarm practice
 | [2180-count-integers-with-even-digit-sum](https://github.com/premkumar-21851/java-practice/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/premkumar-21851/java-practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/premkumar-21851/java-practice/tree/master/2974-minimum-number-game) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/premkumar-21851/java-practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/premkumar-21851/java-practice/tree/master/3701-compute-alternating-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/premkumar-21851/java-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/premkumar-21851/java-practice/tree/master/3894-traffic-signal-color) |
@@ -297,6 +299,7 @@ my java progarm practice
 | [0832-flipping-an-image](https://github.com/premkumar-21851/java-practice/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/premkumar-21851/java-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/premkumar-21851/java-practice/tree/master/1486-xor-operation-in-an-array) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/premkumar-21851/java-practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Matrix
 |  |
 | ------- |
