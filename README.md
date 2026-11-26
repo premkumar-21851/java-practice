@@ -157,6 +157,7 @@ my java progarm practice
 | [3280-convert-date-to-binary](https://github.com/premkumar-21851/java-practice/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/premkumar-21851/java-practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/premkumar-21851/java-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3360-stone-removal-game](https://github.com/premkumar-21851/java-practice/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/premkumar-21851/java-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3516-find-closest-person](https://github.com/premkumar-21851/java-practice/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/premkumar-21851/java-practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -184,6 +185,7 @@ my java progarm practice
 | [2180-count-integers-with-even-digit-sum](https://github.com/premkumar-21851/java-practice/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/premkumar-21851/java-practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/premkumar-21851/java-practice/tree/master/2974-minimum-number-game) |
+| [3360-stone-removal-game](https://github.com/premkumar-21851/java-practice/tree/master/3360-stone-removal-game) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/premkumar-21851/java-practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/premkumar-21851/java-practice/tree/master/3701-compute-alternating-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/premkumar-21851/java-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
