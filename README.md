@@ -36,6 +36,7 @@ my java progarm practice
 | [1512-number-of-good-pairs](https://github.com/premkumar-21851/java-practice/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/premkumar-21851/java-practice/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/premkumar-21851/java-practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/premkumar-21851/java-practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/premkumar-21851/java-practice/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/premkumar-21851/java-practice/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/premkumar-21851/java-practice/tree/master/1929-concatenation-of-array) |
@@ -201,6 +202,7 @@ my java progarm practice
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/premkumar-21851/java-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/premkumar-21851/java-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/premkumar-21851/java-practice/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/premkumar-21851/java-practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/premkumar-21851/java-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/premkumar-21851/java-practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/premkumar-21851/java-practice/tree/master/2367-number-of-arithmetic-triplets) |
@@ -215,6 +217,7 @@ my java progarm practice
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/premkumar-21851/java-practice/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/premkumar-21851/java-practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/premkumar-21851/java-practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/premkumar-21851/java-practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/premkumar-21851/java-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -281,6 +284,7 @@ my java progarm practice
 | [0557-reverse-words-in-a-string-iii](https://github.com/premkumar-21851/java-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/premkumar-21851/java-practice/tree/master/0709-to-lower-case) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/premkumar-21851/java-practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/premkumar-21851/java-practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/premkumar-21851/java-practice/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/premkumar-21851/java-practice/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/premkumar-21851/java-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -308,6 +312,7 @@ my java progarm practice
 | [0832-flipping-an-image](https://github.com/premkumar-21851/java-practice/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/premkumar-21851/java-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/premkumar-21851/java-practice/tree/master/1486-xor-operation-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/premkumar-21851/java-practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/premkumar-21851/java-practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Matrix
 |  |
