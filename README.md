@@ -158,6 +158,7 @@ my java progarm practice
 | [2614-prime-in-diagonal](https://github.com/premkumar-21851/java-practice/tree/master/2614-prime-in-diagonal) |
 | [2651-calculate-delayed-arrival-time](https://github.com/premkumar-21851/java-practice/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/premkumar-21851/java-practice/tree/master/2652-sum-multiples) |
+| [2843-count-symmetric-integers](https://github.com/premkumar-21851/java-practice/tree/master/2843-count-symmetric-integers) |
 | [3099-harshad-number](https://github.com/premkumar-21851/java-practice/tree/master/3099-harshad-number) |
 | [3280-convert-date-to-binary](https://github.com/premkumar-21851/java-practice/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/premkumar-21851/java-practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -255,6 +256,7 @@ my java progarm practice
 | [1925-count-square-sum-triples](https://github.com/premkumar-21851/java-practice/tree/master/1925-count-square-sum-triples) |
 | [2367-number-of-arithmetic-triplets](https://github.com/premkumar-21851/java-practice/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/premkumar-21851/java-practice/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2843-count-symmetric-integers](https://github.com/premkumar-21851/java-practice/tree/master/2843-count-symmetric-integers) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/premkumar-21851/java-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
