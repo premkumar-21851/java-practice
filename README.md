@@ -89,6 +89,7 @@ my java progarm practice
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/premkumar-21851/java-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/premkumar-21851/java-practice/tree/master/2000-reverse-prefix-of-word) |
 | [2367-number-of-arithmetic-triplets](https://github.com/premkumar-21851/java-practice/tree/master/2367-number-of-arithmetic-triplets) |
+| [2396-strictly-palindromic-number](https://github.com/premkumar-21851/java-practice/tree/master/2396-strictly-palindromic-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/premkumar-21851/java-practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/premkumar-21851/java-practice/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/premkumar-21851/java-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -147,6 +148,7 @@ my java progarm practice
 | [2169-count-operations-to-obtain-zero](https://github.com/premkumar-21851/java-practice/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/premkumar-21851/java-practice/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/premkumar-21851/java-practice/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/premkumar-21851/java-practice/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/premkumar-21851/java-practice/tree/master/2413-smallest-even-multiple) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/premkumar-21851/java-practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/premkumar-21851/java-practice/tree/master/2469-convert-the-temperature) |
@@ -388,4 +390,8 @@ my java progarm practice
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/premkumar-21851/java-practice/tree/master/2974-minimum-number-game) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/premkumar-21851/java-practice/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
